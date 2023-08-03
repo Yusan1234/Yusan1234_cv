@@ -3,7 +3,7 @@
 - 08/2023-Present
 - Master of Science in Computer Science
 - Specializing in Machine Learning and ML-Software Development
-- Granted Full-Ride Scholarship thorugh NYU and Japanese Government
+- Granted Full-Ride Scholarship thorugh NYU and Japanese Government  
 ### Kyushu University, School of Medicine
 - 04/2014-03/2020
 - Bachelor/Master of Science in Medical Quantum Science
