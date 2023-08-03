@@ -11,12 +11,10 @@ Artificial Intelligence in Coronary Artery Disease Patients, The 30th Annual Mee
 ...
 
 # Experience
-### AI Medical Services
-- Machine Learning Research Engineer
+### AI Medical Services, Machine Learning Research Engineer
 - Independent Contractor, 02/2023-07/2023
 
-### Philips
-- Research Data Scientist
+### Philips, Research Data Scientist
 - Full-time, 04/2020-03/2023
 
 
