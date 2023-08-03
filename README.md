@@ -1,5 +1,5 @@
 # Intro
-Masters Computer Science student at New York University, Courant Institute of Mathematical Science specializing in machine learning and ML-system development. Committed to driving innovation by applying machine learning technology into real society. Poised to make a significant impact in the ever-evolving landscape of data-driven solutions in healthcare and other highly interesting areas.
+Masters Computer Science student at New York University, Courant Institute of Mathematical Science specializing in machine learning and ML-system development. Committed to driving innovation by applying machine learning technology into real society. Poised to make a significant impact in the ever-evolving landscape of data-driven solutions in healthcare and other highly interesting areas.  
 
 # Education
 ### New York University, Courant Institue of Mathematical Science
