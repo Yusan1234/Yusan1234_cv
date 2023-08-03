@@ -19,7 +19,7 @@ Artificial Intelligence in Coronary Artery Disease Patients, The 30th Annual Mee
 ### Philips, Research Data Scientist
 - Full-time, 04/2020-03/2023
 - Researched Disease Detection Models on MRI/PET
-- 
+- Developed Proto AI Monitoring Application for Machine Maintenance 
 
 
 
