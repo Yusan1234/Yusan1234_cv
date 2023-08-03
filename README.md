@@ -48,7 +48,7 @@ Artificial Intelligence in Coronary Artery Disease Patients, The 30th Annual Mee
 - 01/2020—12/2020
 - Built the committee for the design of Informed Consent Lecture for undergraduates, organizing over 30 committee members
 
-### Skydisc
+### Skydisc, Machine Learning Engineer
 - Part-time, 08/2018 — 12/2019
 - Developed anomaly detection and classification algorithms for Lexus Engine
 
