@@ -1,8 +1,13 @@
 # Education
 ### New York University, Courant Institue of Mathematical Science
+- 08/2023-Present
 - Master of Science in Computer Science
 - Specializing in Machine Learning and ML-Software Development
 - Granted Full-Ride Scholarship thorugh NYU and Japanese Government
+### Kyushu University, School of Medicine
+- 04/2014-03/2020
+- Bachelor/Master of Science in Medical Quantum Science
+- Awarded various scholarships, in total four-year tuition fee
 
 # Latest Academic Activities
 1. Hiroshi Okamoto, Budrul Ahsan, **Yu Minematsu**, Iku Yoshimoto, Sota Kato. A power law approach to predicting international conflicts: Lewis Fry Richardson revisited} the 80th Annual Midwest Political Science Association Conference, 2023
@@ -21,3 +26,18 @@ Artificial Intelligence in Coronary Artery Disease Patients, The 30th Annual Mee
 - Full-time, 04/2020-03/2023
 - Researched Disease Detection Models on MRI/PET
 - Developed Proto AI Monitoring Application for Machine Maintenance
+
+### ASHA, Tech Strategy Manager, Probono
+- 11/2020-07/2023
+- Facilitated a census and managed our electrical health record and primary care applications development
+- Awarded the vision hacker award sponsored by ETIC and **Bill and Melinda Gates Foundation**
+
+### The Boston Consulting Group and Ministry of Economy Trade and Industry Japan
+- 05/2020—02/2021
+- Supported the program producing AI talents and 600 participants with METI and BCG
+
+### Kyushu University, 
+- 01/2020—12/2020
+- Built the committee for the design of Informed Consent Lecture for undergraduates, organizing over 30 committee members
+
+##### Email: m.yusan72-at-gmail-dot-com
