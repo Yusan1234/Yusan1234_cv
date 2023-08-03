@@ -41,4 +41,4 @@ Artificial Intelligence in Coronary Artery Disease Patients, The 30th Annual Mee
 - 01/2020—12/2020
 - Built the committee for the design of Informed Consent Lecture for undergraduates, organizing over 30 committee members
 
-##### Email: m.yusan72-at-gmail-dot-com
+#### Email: m.yusan72-at-gmail-dot-com
