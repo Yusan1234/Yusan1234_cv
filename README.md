@@ -16,8 +16,9 @@ Artificial Intelligence in Coronary Artery Disease Patients, The 30th Annual Mee
 ### AI Medical Services, Machine Learning Research Engineer
 - Independent Contractor, 02/2023-07/2023
 - Developed Disease Detection Models
+- Prepared Realtime Predicition Monitoring System
 
 ### Philips, Research Data Scientist
 - Full-time, 04/2020-03/2023
 - Researched Disease Detection Models on MRI/PET
-- Developed Proto AI Monitoring Application for Machine Maintenance 
+- Developed Proto AI Monitoring Application for Machine Maintenance
