@@ -2,7 +2,7 @@
 ### New York University, Courant Institue of Mathematical Science
 - Master of Science in Computer Science
 - Specializing in Machine Learning and ML-Software Development
-- Full-Ride Scholarship
+- Granted Full-Ride Scholarship thorugh NYU and Japanese Government
 
 # Latest Academic Activities
 1. Hiroshi Okamoto, Budrul Ahsan, **Yu Minematsu**, Iku Yoshimoto, Sota Kato. A power law approach to predicting international conflicts: Lewis Fry Richardson revisited} the 80th Annual Midwest Political Science Association Conference, 2023
@@ -20,6 +20,3 @@ Artificial Intelligence in Coronary Artery Disease Patients, The 30th Annual Mee
 - Full-time, 04/2020-03/2023
 - Researched Disease Detection Models on MRI/PET
 - Developed Proto AI Monitoring Application for Machine Maintenance 
-
-
-
