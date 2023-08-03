@@ -1,6 +1,5 @@
 # Education
-### New York University
-### Courant Institue of Mathematical Science
+### New York University, Courant Institue of Mathematical Science
 - Master of Science in Computer Science
 - Specializing in Machine Learning and ML-Software Development
 - Granted Full-Ride Scholarship thorugh NYU and Japanese Government
