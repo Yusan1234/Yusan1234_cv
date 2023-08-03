@@ -28,8 +28,8 @@ Artificial Intelligence in Coronary Artery Disease Patients, The 30th Annual Mee
 - Researched Disease Detection Models on MRI/PET
 - Developed Proto AI Monitoring Application for Machine Maintenance
 
-### ASHA, Tech Strategy Manager, Probono
-- 11/2020-07/2023
+### ASHA, Tech Strategy Manager
+- Pro-bono, 11/2020-07/2023
 - Facilitated a census and managed our electrical health record and primary care applications development
 - Awarded the vision hacker award sponsored by ETIC and **Bill and Melinda Gates Foundation**
 
@@ -37,8 +37,16 @@ Artificial Intelligence in Coronary Artery Disease Patients, The 30th Annual Mee
 - 05/2020—02/2021
 - Supported the program producing AI talents and 600 participants with METI and BCG
 
+### National Tsinghua University, Computer Science Department
+- 12/2019 — 01/2020
+- Built Word Sense Disambiguation Algorithm based on BERT
+
 ### Kyushu University
 - 01/2020—12/2020
 - Built the committee for the design of Informed Consent Lecture for undergraduates, organizing over 30 committee members
+
+### Skydisc
+- Part-time, 08/2018 — 12/2019
+- Developed anomaly detection and classification algorithms for Lexus Engine
 
 #### Email: m.yusan72-at-gmail-dot-com
