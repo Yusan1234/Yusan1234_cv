@@ -4,6 +4,7 @@
 - Master of Science in Computer Science
 - Specializing in Machine Learning and ML-Software Development
 - Granted Full-Ride Scholarship thorugh NYU and Japanese Government  
+
 ### Kyushu University, School of Medicine
 - 04/2014-03/2020
 - Bachelor/Master of Science in Medical Quantum Science
@@ -36,7 +37,7 @@ Artificial Intelligence in Coronary Artery Disease Patients, The 30th Annual Mee
 - 05/2020—02/2021
 - Supported the program producing AI talents and 600 participants with METI and BCG
 
-### Kyushu University, 
+### Kyushu University
 - 01/2020—12/2020
 - Built the committee for the design of Informed Consent Lecture for undergraduates, organizing over 30 committee members
 
