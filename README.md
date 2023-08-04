@@ -15,14 +15,14 @@ Masters Computer Science student at New York University, Courant Institute of Ma
 
 # Selected Academic Activities
 1. Hiroshi Okamoto, Budrul Ahsan, **Yu Minematsu**, Iku Yoshimoto, Sota Kato. A power law approach to predicting international conflicts: Lewis Fry Richardson revisited the 80th Annual Midwest Political Science Association Conference, 2023  
- [[link]](https://drive.google.com/file/d/1zTNMgjh5Zplt32nLapCK-OiX-W4jy2KN/view?usp=drive_link)
+ [[link]](https://yusan1234.github.io/build-files/MPSA_Publication.pdf)
 2. Hiroshi Ueyama M.D., **Philips(Yu Minematsu)**,  Machine learning blood pressure prediction during general anesthesia The 87th Annual Scientific Meeting of the Japanese Circulation Society, 2023  
- [[link]](https://drive.google.com/file/d/1XCmzdLtB1tCFdttIpvlcYtqdxeur2MW7/view?usp=drive_link)
+ [[link]](https://yusan1234.github.io/build-files/vitalprediction.pdf)
 3. **Yu Minematsu**, Toshioh Fujibuchi, Hidetaka Arimura. Development of method using sentiment
 analysis for anxiety opinion of radiation exposure by social big data. Japanese Journal of Health
 Physics, 2020  
-[[link]](https://drive.google.com/file/d/1JHgUa2wdNS2MPeCFVbDrGe2VBJ1y8RbF/view?usp=drive_link)  
-...
+[[link]](https://yusan1234.github.io/build-files/publication1.pdf)  
+......
 
 # Experience
 ### [AI Medical Services](https://en.ai-ms.com/), Machine Learning Research Engineer
