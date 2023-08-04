@@ -21,7 +21,7 @@ Masters Computer Science student at New York University, Courant Institute of Ma
 3. **Yu Minematsu**, Toshioh Fujibuchi, Hidetaka Arimura. Development of method using sentiment
 analysis for anxiety opinion of radiation exposure by social big data. Japanese Journal of Health
 Physics, 2020  
-[link](https://drive.google.com/file/d/1JHgUa2wdNS2MPeCFVbDrGe2VBJ1y8RbF/view?usp=drive_link)  
+[[link]](https://drive.google.com/file/d/1JHgUa2wdNS2MPeCFVbDrGe2VBJ1y8RbF/view?usp=drive_link)  
 ...
 
 # Experience
