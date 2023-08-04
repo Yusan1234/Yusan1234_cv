@@ -22,7 +22,7 @@ Masters Computer Science student at New York University, Courant Institute of Ma
 analysis for anxiety opinion of radiation exposure by social big data. Japanese Journal of Health
 Physics, 2020  
 [[link]](https://yusan1234.github.io/build-files/publication1.pdf)  
-......
+...
 
 # Experience
 ### [AI Medical Services](https://en.ai-ms.com/), Machine Learning Research Engineer
