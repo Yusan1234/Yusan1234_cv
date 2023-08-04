@@ -6,7 +6,7 @@ Masters Computer Science student at New York University, Courant Institute of Ma
 - 08/2023-Present
 - Master of Science in Computer Science
 - Specializing in Machine Learning and ML-Software Development
-- Granted Full-Ride Scholarship thorugh NYU and Japanese Government  
+- Granted Full-Ride Scholarship thorugh New York University and Japanese Government  
 
 ### Kyushu University, School of Medicine
 - 04/2014-03/2020
@@ -14,25 +14,25 @@ Masters Computer Science student at New York University, Courant Institute of Ma
 - Awarded various scholarships, in total four-year tuition fee
 
 # Selected Academic Activities
-1. Hiroshi Okamoto, Budrul Ahsan, **Yu Minematsu**, Iku Yoshimoto, Sota Kato. A power law approach to predicting international conflicts: Lewis Fry Richardson revisited the 80th Annual Midwest Political Science Association Conference, 2023
-2. Hiroshi Ueyama M.D., **Philips(Yu Minematsu)**,  Machine learning blood pressure prediction during general anesthesia The 87th Annual Scientific Meeting of the Japanese Circulation Society,
+1. Hiroshi Okamoto, Budrul Ahsan, **Yu Minematsu**, Iku Yoshimoto, Sota Kato. A power law approach to predicting international conflicts: Lewis Fry Richardson revisited the 80th Annual Midwest Political Science Association Conference, 2023 [link](https://drive.google.com/file/d/1zTNMgjh5Zplt32nLapCK-OiX-W4jy2KN/view?usp=drive_link)
+2. Hiroshi Ueyama M.D., **Philips(Yu Minematsu)**,  Machine learning blood pressure prediction during general anesthesia The 87th Annual Scientific Meeting of the Japanese Circulation Society, 2023 [link](https://drive.google.com/file/d/1XCmzdLtB1tCFdttIpvlcYtqdxeur2MW7/view?usp=drive_link)
 3. **Yu Minematsu**, Toshioh Fujibuchi, Hidetaka Arimura. Development of method using sentiment
 analysis for anxiety opinion of radiation exposure by social big data. Japanese Journal of Health
-Physics, 2020  
+Physics, 2020 [link](https://drive.google.com/file/d/1JHgUa2wdNS2MPeCFVbDrGe2VBJ1y8RbF/view?usp=drive_link)  
 ...
 
 # Experience
-### AI Medical Services, Machine Learning Research Engineer
+### [AI Medical Services](https://en.ai-ms.com/), Machine Learning Research Engineer
 - Independent Contractor, 02/2023-07/2023
 - Developed Disease Detection Models
 - Prepared Realtime Predicition Monitoring System
 
-### Philips, Research Data Scientist
+### [Philips](https://www.usa.philips.com/?&locale_code=en_us&_ga=2.79456732.972998810.1691082312-609479888.1691082312), Research Data Scientist
 - Full-time, 04/2020-03/2023
 - Researched Disease Detection Models on MRI/PET
 - Developed Proto AI Monitoring Application for Machine Maintenance
 
-### ASHA, Tech Strategy Manager
+### [ASHA](https://www.asha-np.org/en), Tech Strategy Manager
 - Pro-bono, 11/2020-07/2023
 - Facilitated a census and managed our electrical health record and primary care applications development
 - Awarded the vision hacker award sponsored by ETIC and **Bill and Melinda Gates Foundation**
