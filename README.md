@@ -3,13 +3,13 @@ Masters Computer Science student at New York University, Courant Institute of Ma
 
 # Education
 ### New York University, Courant Institue of Mathematical Science
-- 08/2023 --- Present
+- 08/2023 --- Present, New York, United States
 - Master of Science in Computer Science
 - Specializing in Machine Learning and ML-Software Development
 - Granted Full-Ride Scholarship thorugh New York University and Japanese Government  
 
 ### Kyushu University, School of Medicine
-- 04/2014 --- 03/2020
+- 04/2014 --- 03/2020, Fukuoka, Japan
 - Bachelor/Master of Science in Medical Quantum Science
 - Awarded various scholarships, in total four-year tuition fee
 
