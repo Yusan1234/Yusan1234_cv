@@ -14,7 +14,7 @@ Masters Computer Science student at New York University, Courant Institute of Ma
 - Awarded various scholarships, in total four-year tuition fee
 
 # Selected Academic Activities
-1. Begin to co-research with Stanford University and so on for early gastric cancer detection algorithm development research, before starting, I belonged to that as a AI Scientist.
+1. Begin to co-research with Stanford University and so on for early gastric cancer detection algorithm development research, before starting, I belonged to that as a AI Scientist.  
 [[link]](https://en.ai-ms.com/news/global/20230727)  
 2. Hiroshi Okamoto, Budrul Ahsan, **Yu Minematsu**, Iku Yoshimoto, Sota Kato. A power law approach to predicting international conflicts: Lewis Fry Richardson revisited the 80th Annual Midwest Political Science Association Conference, 2023  
  [[link]](https://yusan1234.github.io/cv/build-files/MPSA_Publication.pdf)
