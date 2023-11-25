@@ -27,12 +27,12 @@ Physics, 2020
 ...
 
 # Experience
-### [AI Medical Services](https://en.ai-ms.com/), Machine Learning Research Engineer
+### [AI Medical Services](https://en.ai-ms.com/), Machine Learning Engineer
 - Independent Contractor, 02/2023 --- 07/2023
 - Developed Disease Detection Models
 - Prepared Realtime Predicition Monitoring System
 
-### [Philips](https://www.usa.philips.com/?&locale_code=en_us&_ga=2.79456732.972998810.1691082312-609479888.1691082312), Research Data Scientist
+### [Philips](https://www.usa.philips.com/?&locale_code=en_us&_ga=2.79456732.972998810.1691082312-609479888.1691082312), Machine Learning Reseacher
 - Full-time, 04/2020 --- 03/2023
 - Researched Disease Detection Models on MRI/PET
 - Developed Proto AI Monitoring Application for Machine Maintenance
